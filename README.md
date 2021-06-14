@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="center">Hi 👋, I'm Giovanny</h2>
+<h2 align="center">Hi <img src="./wave.gif" width="30px">, I'm Giovanny</h2>
 <h3 align="center">A passionate software engineer, tech enthusiast and gamer</h3>
 
 <a href="https://linkedin.com/in/giovannywrp" target="blank"><img align="left" src="icons/linkedin.svg" alt="wolfgio" width="22px" /></a>
