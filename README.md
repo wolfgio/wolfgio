@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <br />
 ### About me...
 - 🔭 I’m currently working at Donus
-- 🌱 I’m currently learning more about algorithm's in general.
+- 🌱 I’m currently learning more about SwiftUI.
 - 👯 I’m looking to collaborate on Flutter community
 - 💬 Ask me about pretty much anything
 - 😄 Pronouns: He/Him
