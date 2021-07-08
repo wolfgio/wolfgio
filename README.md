@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working at Donus
 - 🌱 I’m currently learning more about SwiftUI.
 - 👯 I’m looking to collaborate on Flutter community
-- 💬 Ask me about pretty much anything
+- 💬 Ask me about frontend and mobile development
 - 😄 Pronouns: He/Him
 
 ### Languages and Frameworks
