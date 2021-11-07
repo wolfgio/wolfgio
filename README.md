@@ -34,10 +34,8 @@ Here are some ideas to get you started:
 <img align="left" src="icons/javascript.svg" />
 <img align="left" src="icons/typescript.svg" />
 <img align="left" src="icons/dart.svg" />
-<img align="left" src="icons/kotlin.svg" />
 <img align="left" src="icons/react.svg" />
 <img align="left" src="icons/flutter.svg" />
-<img align="left" src="icons/nodejs.svg" />
 <br />
 <br />
 <br />
