@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <br />
 ### About me...
 - 🔭 I’m currently working at Nubank
-- 🌱 I’m currently learning more about SwiftUI.
+- 🌱 I’m currently learning more about Clojure.
 - 👯 I’m looking to collaborate on Flutter community
 - 💬 Ask me about frontend and mobile development
 - 😄 Pronouns: He/Him
