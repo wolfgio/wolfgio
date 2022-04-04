@@ -39,6 +39,6 @@ Here are some ideas to get you started:
 <br />
 <br />
 <br />
-
+<!-- 
 ![](https://raw.githubusercontent.com/wolfgio/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/wolfgio/github-stats-transparent/output/generated/languages.svg)
+![](https://raw.githubusercontent.com/wolfgio/github-stats-transparent/output/generated/languages.svg) -->
