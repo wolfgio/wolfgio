@@ -26,16 +26,16 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working at Nubank
 - 🌱 I’m currently learning more about Clojure.
 - 👯 I’m looking to collaborate on Flutter community
-- 💬 Ask me about frontend and mobile development
+- 💬 Ask me about mobile development
 - 😄 Pronouns: He/Him
 
 ### Languages and Frameworks
 
+<img align="left" src="icons/flutter.svg" />
+<img align="left" src="icons/dart.svg" />
 <img align="left" src="icons/javascript.svg" />
 <img align="left" src="icons/typescript.svg" />
-<img align="left" src="icons/dart.svg" />
 <img align="left" src="icons/react.svg" />
-<img align="left" src="icons/flutter.svg" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clojure/clojure-original.svg" width="36" height="36" />
 <br />
 <br />
